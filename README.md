@@ -6,3 +6,5 @@
 2) https://github.com/0xInfection/Awesome-WAF
 6) https://github.com/denny0223/scrabble
 7) https://github.com/The-Art-of-Hacking/h4cker
+8) https://github.com/stealthcopter/deepce
+9) https://github.com/Ciphey/Ciphey
