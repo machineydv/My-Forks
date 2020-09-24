@@ -8,4 +8,4 @@
 7) https://github.com/The-Art-of-Hacking/h4cker
 8) https://github.com/stealthcopter/deepce
 9) https://github.com/Ciphey/Ciphey
-10) machinexa2/can-i-take-over-xyz
+10) https://github.com/Edoverflow/can-i-take-over-xyz
