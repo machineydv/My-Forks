@@ -11,3 +11,4 @@
 9) https://github.com/Ciphey/Ciphey
 10) https://github.com/Edoverflow/can-i-take-over-xyz
 11) https://github.com/minimaxir/big-list-of-naughty-strings/
+12) https://github.com/BlackFan/client-side-prototype-pollution
