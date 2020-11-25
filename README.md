@@ -12,3 +12,4 @@
 10) https://github.com/Edoverflow/can-i-take-over-xyz
 11) https://github.com/minimaxir/big-list-of-naughty-strings/
 12) https://github.com/BlackFan/client-side-prototype-pollution
+13) https://github.com/sonic182/aiosonic
