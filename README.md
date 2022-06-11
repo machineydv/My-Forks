@@ -13,7 +13,6 @@
 11) https://github.com/minimaxir/big-list-of-naughty-strings/
 12) https://github.com/BlackFan/client-side-prototype-pollution
 13) https://github.com/sonic182/aiosonic
-14) https://github.com/machinexa2/selenium
 15) https://github.com/bee-san/pyWhat
 16) https://github.com/HashPals/Search-That-Hash
 17) https://github.com/dxillar/nepali-datetime
